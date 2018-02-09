@@ -1,0 +1,10 @@
+{
+	"name": "dtd",
+        "targetType" : "library",
+	"authors": [
+		"aceawan"
+	],
+	"description": "A D wrapper to TDLib (Telegram Database library)",
+	"copyright": "Copyright © 2018, aceawan",
+	"license": "MIT"
+}
